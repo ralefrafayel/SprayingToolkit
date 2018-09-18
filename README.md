@@ -1,8 +1,6 @@
 # SprayingToolkit
 
-<p align="center">
-  <img src="http://38.media.tumblr.com/79d7e2a376cb96fb581b3453070f6229/tumblr_ns5suorqYu1szok8ro1_500.gif" alt="SprayingToolkit"/>
-</p>
+
 
 
 ## Description
@@ -46,7 +44,7 @@ Options:
 
 ### Vaporizer
 
-A port of [@OrOneEqualsOne](https://twitter.com/OrOneEqualsOne)'s [GatherContacts](https://github.com/clr2of8/GatherContacts) Burp extension to [mitmproxy](https://mitmproxy.org/) with some improvements.
+A port of [@OrOneEqualsOne](https://twitter.com/ralef_rafayel)'s [GatherContacts](https://github.com/ralefrafayel/) Burp extension to [mitmproxy](https://mitmproxy.org/) with some improvements.
 
 Scrapes Google and Bing for LinkedIn profiles, automatically generates emails from the profile names using the specified pattern and performes password sprays in real-time.
 
